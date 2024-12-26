@@ -1,4 +1,4 @@
-# Forever Engine
+# Forever Engine (likely nonfunctional)
 ![Image](./preview.png)
 ![Image2](./preview2.png)
 Old files from August '24 -> October '24 I stopped working on. Made with C#, OpenTK and ImGui bindings. Aimed to emulate old roblox?
@@ -19,6 +19,3 @@ Another hurdle is the configurability of Dear ImGui as a ui library. Good for de
 
 ## License 
 This project and all of its assets are licensed under the [GNU General Public License v3.0](https://github.com/harnessyourhopes/Forever-Engine/blob/main/LICENSE).
-
-## Contributions
-Contributions are welcome in the sense that it takes the project in a direction I would like to go in. Engine optimizations, grammer fixes, and PR's of this general nature will be accepted. If a feature request and PR are submitted and I don't feel the feature is necessary, it's unlikely I will accept that pull request.
